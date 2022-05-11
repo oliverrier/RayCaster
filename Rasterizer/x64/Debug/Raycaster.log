@@ -1,0 +1,38 @@
+﻿  Main.cpp
+D:\Workspace\M1\ProgMoteur\Rasterizer\Rasterizer\Main.cpp(225): warning C4244: '=' : conversion de 'double' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+D:\Workspace\M1\ProgMoteur\Rasterizer\Rasterizer\Main.cpp(235): warning C4244: '=' : conversion de 'double' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+D:\Workspace\M1\ProgMoteur\Rasterizer\Rasterizer\Main.cpp(310): warning C4244: '=' : conversion de 'double' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+D:\Workspace\M1\ProgMoteur\Rasterizer\Rasterizer\Main.cpp(319): warning C4244: '=' : conversion de 'int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+D:\Workspace\M1\ProgMoteur\Rasterizer\Rasterizer\Main.cpp(365): warning C4244: '=' : conversion de 'double' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+D:\Workspace\M1\ProgMoteur\Rasterizer\Rasterizer\Main.cpp(374): warning C4244: '=' : conversion de 'int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+D:\Workspace\M1\ProgMoteur\Rasterizer\Rasterizer\Main.cpp(419): warning C4244: 'argument' : conversion de 'T' en 'int', perte possible de données
+          with
+          [
+              T=float
+          ]
+D:\Workspace\M1\ProgMoteur\Rasterizer\Rasterizer\Main.cpp(419): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+  Raycaster.vcxproj -> D:\Workspace\M1\ProgMoteur\Rasterizer\Rasterizer\x64\Debug\Raycaster.exe
